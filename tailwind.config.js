@@ -28,10 +28,10 @@ module.exports = {
 
       backgroundImage: {
         "form-pattern": "url('https://jawdat860.github.io/Project1/build/img/background.jpeg')",
-        "hero-md": "url('/build/img/heroMd.png')",
-        hero: "url('/build/img/hero.png')",
-        "hero-mob": "url('/build/img/background-mobile.png')",
-        main: "url('/build/img/top-bg.png')",
+        "hero-md": "url('https://jawdat860.github.io/Project1/build/img/heroMd.png')",
+        hero: "url('https://jawdat860.github.io/Project1/build/img/hero.png')",
+        "hero-mob": "url('https://jawdat860.github.io/Project1/build/img/background-mobile.png')",
+        main: "url('https://jawdat860.github.io/Project1/build/img/top-bg.png')",
       },
     },
   },

@@ -902,7 +902,7 @@ video {
 }
 
 .bg-hero-mob{
-  background-image: url('/build/img/background-mobile.png');
+  background-image: url('https://jawdat860.github.io/Project1/build/img/background-mobile.png');
 }
 
 .bg-contain{
@@ -1287,7 +1287,7 @@ h3{
   }
 
   .sm\:bg-hero-md{
-    background-image: url('/build/img/heroMd.png');
+    background-image: url('https://jawdat860.github.io/Project1/build/img/heroMd.png');
   }
 
   .sm\:px-8{
@@ -1392,7 +1392,7 @@ h3{
   }
 
   .lg\:bg-hero{
-    background-image: url('/build/img/hero.png');
+    background-image: url('https://jawdat860.github.io/Project1/build/img/hero.png');
   }
 
   .lg\:bg-cover{
