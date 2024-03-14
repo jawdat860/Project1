@@ -898,11 +898,11 @@ video {
 }
 
 .bg-form-pattern{
-  background-image: url('/public/img/background.jpeg');
+  background-image: url('/build/img/background.jpeg');
 }
 
 .bg-hero-mob{
-  background-image: url('/public/img/background-mobile.png');
+  background-image: url('/build/img/background-mobile.png');
 }
 
 .bg-contain{
@@ -1287,7 +1287,7 @@ h3{
   }
 
   .sm\:bg-hero-md{
-    background-image: url('/public/img/heroMd.png');
+    background-image: url('/build/img/heroMd.png');
   }
 
   .sm\:px-8{
@@ -1392,7 +1392,7 @@ h3{
   }
 
   .lg\:bg-hero{
-    background-image: url('/public/img/hero.png');
+    background-image: url('/build/img/hero.png');
   }
 
   .lg\:bg-cover{

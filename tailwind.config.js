@@ -27,11 +27,11 @@ module.exports = {
       },
 
       backgroundImage: {
-        "form-pattern": "url('/public/img/background.jpeg')",
-        "hero-md": "url('/public/img/heroMd.png')",
-        hero: "url('/public/img/hero.png')",
-        "hero-mob": "url('/public/img/background-mobile.png')",
-        main: "url('/public/img/top-bg.png')",
+        "form-pattern": "url('/build/img/background.jpeg')",
+        "hero-md": "url('/build/img/heroMd.png')",
+        hero: "url('/build/img/hero.png')",
+        "hero-mob": "url('/build/img/background-mobile.png')",
+        main: "url('/build/img/top-bg.png')",
       },
     },
   },
