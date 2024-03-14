@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  @apply box-border;
+}
+
+body {
+  @apply font-Montserrat;
+}
+h1 {
+  @apply font-bold text-2xl sm:text-6xl leading-[30px] sm:leading-[90px];
+}
+h2 {
+  @apply sm:font-bold sm:text-left sm:text-[32px] sm:leading-[48px] font-semibold  text-xl leading-[30px];
+}
+h3 {
+  @apply font-bold text-xl leading-[30px] sm:text-2xl sm:leading-[36px];
+}
+
+.subtitle {
+  @apply font-semibold sm:text-xl text-sm leading-[21px] sm:leading-[30px];
+}
+.subtitle2 {
+  @apply font-semibold text-sm sm:text-base leading-[21px] sm:leading-6;
+}
+.body-text {
+  @apply font-normal text-sm sm:text-xl leading-[21px]  sm:leading-[30px];
+}
+.body-text2 {
+  @apply font-normal sm:text-base sm:leading-6 text-sm leading-[21px];
+}
+.btn {
+  @apply items-center max-w-[139px] h-[39px] sm:max-w-[188px] sm:h-[50px] rounded-[50px] py-[9px] px-[13px] sm:py-[13px] sm:px-[25px] sm:gap-3 gap-2 bg-Lavender text-White-portfolio;
+}
+
+.btn:hover {
+  @apply  bg-[#6C2BD9] ;
+}
+.input {
+  @apply rounded-2xl py-[13px] pr-5 border-[1px]  bg-White-portfolio outline-none;
+}
+
