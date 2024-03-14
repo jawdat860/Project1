@@ -27,7 +27,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        "form-pattern": "url('/build/img/background.jpeg')",
+        "form-pattern": "url('https://jawdat860.github.io/Project1/build/img/background.jpeg')",
         "hero-md": "url('/build/img/heroMd.png')",
         hero: "url('/build/img/hero.png')",
         "hero-mob": "url('/build/img/background-mobile.png')",
